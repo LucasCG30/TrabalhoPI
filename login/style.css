@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+h1
+{
+    color: white;
+}
+header
+{
+    background-color: #1e3774;
+     
+}
+hgroup
+{
+   position: relative;
+    width: 566px;
+    height: 83px;
+    left: 21px;
+    top: 15px;
+}
+.email
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    left: 500px;
+    top: 200px;
+}
+.email1
+{
+    box-sizing: border-box;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    left: 500px;
+    top: 70px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.senha
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    left: 500px;
+    top: 360px;
+}
+.senha1
+{
+    box-sizing: border-box;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    left: 423px;
+    top: 230px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.flegar
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    left: 530px;
+    top: 440px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.flegar1
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 423px;
+    height: 20px;
+    left: 300px;
+    top: 460px;
+    font-size: 18px;
+    font-weight: 500;
+}
+button
+{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 500px;
+    top: 520px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #1e3774;
+    color: white;
+}
+.botão2
+{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 770px;
+    top: 520px;
+    font-size: 20px;
+    background-color: #1e3774;
+    color: white;
+}

@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+h1
+{
+    color: white;
+}
+header 
+{
+    background-color: rgb(19, 19, 82);
+     
+}
+
+li
+{
+    display: inline-block;
+    margin: 15px;
+    color: #ffffff;
+    font-weight: 500;
+}
+li:hover
+ {    
+     color: rgb(0, 0, 0);     transition: 0.20s all; 
+}
+hgroup
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.loginpj
+{
+    position: absolute;
+    width: 350px;
+    height: 87px;
+    left: 850px;
+    top: 210px;
+    font-size: 28px;
+    font-weight: 700;
+    background-color: rgb(19, 19, 82);
+    color: white;
+}
+.loginpj1
+{
+    position: absolute;
+    width: 450px;
+    height: 80px;
+    left: 850px;
+    top: 330px;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.cadpj
+{
+    position: absolute;
+    width: 350px;
+    height: 87px;
+    left: 850px;
+    top: 550px;
+    font-size: 28px;
+    font-weight: 700;
+    background-color: rgb(19, 19, 82);
+    color: white;
+}
+.cadpj1
+{
+    position: absolute;
+    width: 450px;
+    height: 80px;
+    left: 850px;
+    top: 660px;
+    font-size: 18px;
+    line-height: 35px;
+}
+.loginpf
+{
+    position: absolute;
+    width: 350px;
+    height: 87px;
+    left: 150px;
+    top: 210px;
+    font-size: 28px;
+    font-weight: 700;
+    background-color: rgb(19, 19, 82);
+    color: white;
+}
+.loginpf1
+{
+    position: absolute;
+    width: 450px;
+    height: 80px;
+    left: 150px;
+    top: 330px;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.cadpf
+{
+    position: absolute;
+    width: 350px;
+    height: 87px;
+    left: 150px;
+    top: 550px;
+    font-size: 28px;
+    font-weight: 700;
+    background-color: rgb(19, 19, 82);
+    color: white;
+}
+.cadpf1
+{
+    position: absolute;
+    width: 450px;
+    height: 80px;
+    left: 150px;
+    top: 660px;
+    font-size: 18px;
+    line-height: 35px;
+}
+

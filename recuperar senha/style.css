@@ -1,0 +1,56 @@
+.quadro
+{
+    border: 3px solid black;
+    width: 600px;
+    height: 400px;
+    margin: 400px;
+    margin-top: 200px;
+}
+h1
+{
+    text-align: center;
+    color: white;
+}
+.linha
+{
+    border: 1px solid black;
+    position: absolute;
+    width: 600px;
+    height: 70px;
+    left: 410px;
+    top: 200px;
+    background-color: #001b48;
+}
+.email1
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    left: 500px;
+    top: 370px;
+    border: 2px solid black;
+}
+.email
+{
+    box-sizing: border-box;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    left: 100px;
+    top: 40px;
+    font-size: 22px;
+    font-weight: 700;
+}
+button
+{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 600px;
+    top: 480px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #001b48;
+    color: white;
+}

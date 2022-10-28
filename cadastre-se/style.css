@@ -1,0 +1,285 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+h1
+{
+    color: white;
+}
+header
+{
+    background-color: #1e3774;
+     
+}
+hgroup
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+li
+{
+    display: inline-block;
+    margin: 15px;
+    color: #ffffff;
+    font-weight: 500;
+}
+li:hover
+ {    
+     color: rgb(0, 0, 0);     transition: 0.20s all; 
+}
+.nome
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 109px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.nomec
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 159px;
+}
+.email
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 210px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.email1
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 259px;
+}
+.tel
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 310px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.tel1
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 365px;
+}
+.cpf
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 410px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.cpf1
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 465px;
+}
+.senha
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 510px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.senha1
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 70px;
+    top: 565px;
+}
+.escola
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 530px;
+    top: 109px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.escola1
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 530px;
+    top: 159px;
+}
+.prof
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 530px;
+    top: 210px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.prof1
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 530px;
+    top: 259px;
+}
+.curriculo
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 530px;
+    top: 310px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.curriculo1
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 530px;
+    top: 365px;
+}
+.nascimento
+{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 530px;
+    top: 410px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.nascimento1
+{
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    left: 530px;
+    top: 465px;
+}
+button
+{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 900px;
+    top: 560px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #1e3774;
+    color: white;
+}
+.masc
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    left: 560px;
+    top: 512px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.masc1
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 423px;
+    height: 20px;
+    left: 330px;
+    top: 530px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.fem
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    left: 560px;
+    top: 542px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.fem1
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 423px;
+    height: 20px;
+    left: 330px;
+    top: 560px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.outro
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    left: 560px;
+    top: 572px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.outro1
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 423px;
+    height: 20px;
+    left: 330px;
+    top: 590px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
